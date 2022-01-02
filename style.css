@@ -1,0 +1,52 @@
+body{
+
+}
+#cont{
+  background-image: url("por1.jpg");
+  background-repeat: no-repeat;
+}
+
+
+#name{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 60px; color:rgb(116,107,116);
+  padding-top: 180px;
+  padding-left: 200px;
+}
+
+#info{
+  font-size: 40px; color: rgb(116,107,116);
+  padding-left: 120px;
+  padding-top: 40px;
+  font-family: 'Island Moments', cursive;
+}
+
+#about{
+  background-color: rgb(43,43,43);
+  color: red;
+  position: absolute;
+}
+
+.spelling-error {
+ text-decoration-line: underline;
+ text-decoration-color: rgb(3, 252, 161);
+}
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+
+#linkdn{
+  margin-left: 650px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#github{
+  margin-left: 10px;
+}
